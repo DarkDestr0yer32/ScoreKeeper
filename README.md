@@ -19,9 +19,10 @@ Score Keeper is a web application that helps you keep track of scores for variou
 
 ## Usage
 1.Open index.html in your web browser.
-2.Use the dropdown to set the winning score.
-3.Click on the buttons to increment the scores for Player One and Player Two.
-4.Click the "Reset" button to restart the game.
+<br>
+2.Use the dropdown to set the winning score.<br>
+3.Click on the buttons to increment the scores for Player One and Player Two.<br>
+4.Click the "Reset" button to restart the game.<br>
 
 ## Code Overview
 1. HTML
