@@ -32,10 +32,6 @@ The HTML code structures a user-friendly interface with Bulma CSS framework, fea
 The JavaScript code manages game logic, including updating scores, checking for a winner, and resetting the game.
 
 
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-
-Contact
+## Contact
 Prathamesh Lakhotiya
 Email: prathameshlakhotiya27@gmail.com
