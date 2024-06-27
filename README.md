@@ -12,7 +12,7 @@ Score Keeper is a web application that helps you keep track of scores for variou
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/score-keeper.git
+   git clone https://github.com/DarkDestr0yer32/score-keeper.git
 2. Navigate to the project directory:
    ```bash
    cd score-keeper
